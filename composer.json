@@ -1,0 +1,17 @@
+{
+    "name": "indah/db_indah",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan Tahun 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Indah",
+            "email": "indahmeilina123@gmail.com"
+        }
+    ],
+    "require": {}
+}
